@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/HP 346 G3/AndroidStudioProjects/Animation_example/app/src/main/res/layout/activity_main.xml" value="0.593376264949402" />
+        <entry key="..\:/Users/HP 346 G3/AndroidStudioProjects/Animation_example/app/src/main/res/layout/activity_drag_example.xml" value="0.1734375" />
+        <entry key="..\:/Users/HP 346 G3/AndroidStudioProjects/Animation_example/app/src/main/res/layout/activity_main.xml" value="0.1734375" />
+        <entry key="..\:/Users/HP 346 G3/AndroidStudioProjects/Animation_example/app/src/main/res/layout/activity_next.xml" value="0.1734375" />
       </map>
     </option>
   </component>

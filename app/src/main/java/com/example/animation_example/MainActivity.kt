@@ -2,6 +2,7 @@ package com.example.animation_example
 
 import android.animation.*
 import android.annotation.SuppressLint
+import android.content.Intent
 import android.graphics.Color
 import android.os.Bundle
 import android.view.View
@@ -48,6 +49,11 @@ class MainActivity : AppCompatActivity() {
 
         btnShower.setOnClickListener { shower() }
         container.setOnClickListener { shower() }
+
+        container.setOnLongClickListener {
+            startActivity(Intent(this, DragExampleActivity::class.java))
+            true
+        }
 
     }
 
